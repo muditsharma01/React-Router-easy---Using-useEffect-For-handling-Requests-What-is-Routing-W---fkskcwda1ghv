@@ -1,5 +1,5 @@
 import React from "react";
 
-export const NotFound = () => {
-  return <div id="not-found-page">Not found page</div>;
+export const Index = () => {
+  return <div id="index-page">Index Page</div>;
 };
